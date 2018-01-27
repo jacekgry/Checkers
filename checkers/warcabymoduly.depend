@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1489442962 source:c:\users\123\desktop\warcabymoduly\warcabymoduly\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1489309567 source:c:\users\123\desktop\warcabymoduly\warcabymoduly\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1489322943 c:\users\123\desktop\warcabymoduly\warcabymoduly\functions.h
+
+1490200364 source:c:\users\123\desktop\warcabymoduly\warcabymoduly — kopia (3)\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1490200345 c:\users\123\desktop\warcabymoduly\warcabymoduly — kopia (3)\functions.h
+
+1490199086 source:c:\users\123\desktop\warcabymoduly\warcabymoduly — kopia (3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1490474898 source:c:\users\grycza\desktop\warcabymoduly — kopia (3)\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1490475264 c:\users\grycza\desktop\warcabymoduly — kopia (3)\functions.h
+
+1490475341 source:c:\users\grycza\desktop\warcabymoduly — kopia (3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1490484066 source:c:\users\grycza\desktop\warcaby25.03\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+	<time.h>
+
+1490483434 c:\users\grycza\desktop\warcaby25.03\functions.h
+
+1490531428 source:c:\users\grycza\desktop\warcaby25.03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1490952911 source:c:\users\dorotka\desktop\warcaby25.03\functions.c
+	"functions.h"
+
+1491000900 c:\users\dorotka\desktop\warcaby25.03\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<time.h>
+
+1490948266 source:c:\users\dorotka\desktop\warcaby25.03\main.c
+	"functions.h"
+
